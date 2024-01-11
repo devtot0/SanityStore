@@ -1,5 +1,11 @@
 import Image from "next/image";
-
+import Hero from "@/components/Hero";
+import Newest from "@/components/Newest";
 export default function Home() {
-  return <div>Hello from the main page</div>;
+  return (
+    <div>
+      <Hero />
+      <Newest />
+    </div>
+  );
 }
