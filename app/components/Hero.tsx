@@ -20,7 +20,7 @@ export default async function Hero() {
             Finest aromatherapy products are here!
           </h1>
           <p className="max-w-md leading-relaxed text-gray-500 xl:text-lg">
-            From essetial oils, resim to dry herbs - we've got your all
+            From essetial oils, resim to dry herbs - we&aposve got your all
             olfactory needs covered.
           </p>
         </div>
